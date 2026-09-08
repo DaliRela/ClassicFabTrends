@@ -1662,7 +1662,7 @@ Table of Contents
          margin-top:0rem!important;
     }
      .page-header {
-         padding: 3.0em 0 0em 0;
+         padding: 4.5em 0 1.5em 0;
     }
      .navbar {
          margin-bottom: 0px;
@@ -1671,7 +1671,7 @@ Table of Contents
          width: 100%;
     }
      .content-wrapper {
-         top: 65px;
+         top: 90px;
          min-height:100%;
 		 overflow-x: clip;
     }
